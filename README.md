@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ARHSG23
-- 👀 I’m interested in leading DevOps teams and data analysis
-- 🌱 I’m currently learning the best software development workflows
-- 💞️ I’m looking to collaborate on maximizing team potential
+- 👀 I’m interested in leading DevOps teams and coding for data analytics
+- 🌱 I’m currently learning the best software development techniques
+- 💞️ I’m looking to collaborate on maximizing team potential and data analytics
 - 📫 How to reach me: Send me a message
 
 <!---
